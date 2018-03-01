@@ -1,0 +1,11 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<h1>Weather</h1>
+@foreach (string s in ViewBag.AllTemps)
+{
+    @s;
+    <br />
+}
