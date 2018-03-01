@@ -40,3 +40,45 @@ C:\Users\GC Student\Desktop\Grand Circus\Lab26\Lab26\obj\Debug\Lab26.csprojResol
 C:\Users\GC Student\Desktop\Grand Circus\Lab26\Lab26\obj\Debug\Lab26.csproj.CoreCompileInputs.cache
 C:\Users\GC Student\Desktop\Grand Circus\Lab26\Lab26\obj\Debug\Lab26.dll
 C:\Users\GC Student\Desktop\Grand Circus\Lab26\Lab26\obj\Debug\Lab26.pdb
+C:\Users\GOAT\Desktop\Grand Circus\Lab26\Lab26\Lab26\bin\ApplicationInsights.config
+C:\Users\GOAT\Desktop\Grand Circus\Lab26\Lab26\Lab26\bin\Lab26.dll.config
+C:\Users\GOAT\Desktop\Grand Circus\Lab26\Lab26\Lab26\bin\Lab26.dll
+C:\Users\GOAT\Desktop\Grand Circus\Lab26\Lab26\Lab26\bin\Lab26.pdb
+C:\Users\GOAT\Desktop\Grand Circus\Lab26\Lab26\Lab26\bin\Antlr3.Runtime.dll
+C:\Users\GOAT\Desktop\Grand Circus\Lab26\Lab26\Lab26\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\GOAT\Desktop\Grand Circus\Lab26\Lab26\Lab26\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\GOAT\Desktop\Grand Circus\Lab26\Lab26\Lab26\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\GOAT\Desktop\Grand Circus\Lab26\Lab26\Lab26\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\GOAT\Desktop\Grand Circus\Lab26\Lab26\Lab26\bin\Microsoft.AI.Web.dll
+C:\Users\GOAT\Desktop\Grand Circus\Lab26\Lab26\Lab26\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\GOAT\Desktop\Grand Circus\Lab26\Lab26\Lab26\bin\Microsoft.ApplicationInsights.dll
+C:\Users\GOAT\Desktop\Grand Circus\Lab26\Lab26\Lab26\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\GOAT\Desktop\Grand Circus\Lab26\Lab26\Lab26\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\GOAT\Desktop\Grand Circus\Lab26\Lab26\Lab26\bin\Newtonsoft.Json.dll
+C:\Users\GOAT\Desktop\Grand Circus\Lab26\Lab26\Lab26\bin\System.Web.Helpers.dll
+C:\Users\GOAT\Desktop\Grand Circus\Lab26\Lab26\Lab26\bin\System.Web.Mvc.dll
+C:\Users\GOAT\Desktop\Grand Circus\Lab26\Lab26\Lab26\bin\System.Web.Optimization.dll
+C:\Users\GOAT\Desktop\Grand Circus\Lab26\Lab26\Lab26\bin\System.Web.Razor.dll
+C:\Users\GOAT\Desktop\Grand Circus\Lab26\Lab26\Lab26\bin\System.Web.WebPages.Deployment.dll
+C:\Users\GOAT\Desktop\Grand Circus\Lab26\Lab26\Lab26\bin\System.Web.WebPages.dll
+C:\Users\GOAT\Desktop\Grand Circus\Lab26\Lab26\Lab26\bin\System.Web.WebPages.Razor.dll
+C:\Users\GOAT\Desktop\Grand Circus\Lab26\Lab26\Lab26\bin\WebGrease.dll
+C:\Users\GOAT\Desktop\Grand Circus\Lab26\Lab26\Lab26\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\GOAT\Desktop\Grand Circus\Lab26\Lab26\Lab26\bin\System.Web.Helpers.xml
+C:\Users\GOAT\Desktop\Grand Circus\Lab26\Lab26\Lab26\bin\System.Web.Mvc.xml
+C:\Users\GOAT\Desktop\Grand Circus\Lab26\Lab26\Lab26\bin\System.Web.Optimization.xml
+C:\Users\GOAT\Desktop\Grand Circus\Lab26\Lab26\Lab26\bin\System.Web.Razor.xml
+C:\Users\GOAT\Desktop\Grand Circus\Lab26\Lab26\Lab26\bin\System.Web.WebPages.xml
+C:\Users\GOAT\Desktop\Grand Circus\Lab26\Lab26\Lab26\bin\System.Web.WebPages.Deployment.xml
+C:\Users\GOAT\Desktop\Grand Circus\Lab26\Lab26\Lab26\bin\System.Web.WebPages.Razor.xml
+C:\Users\GOAT\Desktop\Grand Circus\Lab26\Lab26\Lab26\bin\Antlr3.Runtime.pdb
+C:\Users\GOAT\Desktop\Grand Circus\Lab26\Lab26\Lab26\bin\Newtonsoft.Json.xml
+C:\Users\GOAT\Desktop\Grand Circus\Lab26\Lab26\Lab26\bin\Microsoft.ApplicationInsights.xml
+C:\Users\GOAT\Desktop\Grand Circus\Lab26\Lab26\Lab26\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\GOAT\Desktop\Grand Circus\Lab26\Lab26\Lab26\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\GOAT\Desktop\Grand Circus\Lab26\Lab26\Lab26\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\GOAT\Desktop\Grand Circus\Lab26\Lab26\Lab26\bin\Microsoft.AI.Web.xml
+C:\Users\GOAT\Desktop\Grand Circus\Lab26\Lab26\Lab26\obj\Debug\Lab26.csprojResolveAssemblyReference.cache
+C:\Users\GOAT\Desktop\Grand Circus\Lab26\Lab26\Lab26\obj\Debug\Lab26.csproj.CoreCompileInputs.cache
+C:\Users\GOAT\Desktop\Grand Circus\Lab26\Lab26\Lab26\obj\Debug\Lab26.dll
+C:\Users\GOAT\Desktop\Grand Circus\Lab26\Lab26\Lab26\obj\Debug\Lab26.pdb

@@ -1,0 +1,20 @@
+﻿@{
+    ViewBag.Title = "Search By Location";
+}
+
+<h2>@ViewBag.Title.</h2>
+
+<p>Enter the coordinates of the US location you would like to check the weather for.</p>
+@if (ViewBag.NotInUS != "inUS")
+{
+    <p class="alert-danger">@ViewBag.NotInUS</p>
+}
+<div class="form-body">
+    <form action="WeatherByLocation" method="get">
+        <label>Latitude:</label>
+        <input id="lat" name="lat" type="number" step=".00001" max="90" min="-90" placeholder="00.00000" /><br />
+        <label>Longitude:</label>
+        <input id="lon" name="lon" type="number" step=".00001" max="180" min="-180" placeholder="00.00000" /><br /><br />
+        <input type="submit" value="Submit" />
+    </form>
+</div>

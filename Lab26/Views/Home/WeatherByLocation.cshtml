@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewBag.Title = "WeatherByLocation";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Weather By Searched Location</h2>
+
+<h2>@ViewBag.SearchArea</h2>
+@foreach (string s in ViewBag.AllSearchTemps)
+{
+    @s;
+    <br />
+}
+

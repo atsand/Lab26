@@ -22,3 +22,13 @@ select,
 textarea {
     max-width: 280px;
 }
+
+.form-body {
+    width: 100px;
+    clear: both;
+}
+
+.form-body input, label {
+    width: 100%;
+    clear: both;
+}
